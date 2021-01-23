@@ -1,31 +1,31 @@
-﻿Name,League,Division,In_Division,League_Division
-Orioles,American League,East,N,AL East
-Red Sox,American League,East,N,AL East
-Yankees,American League,East,N,AL East
-Rays,American League,East,N,AL East
-Blue Jays,American League,East,N,AL East
-White Sox,American League,Central,N,AL Central
-Indians,American League,Central,N,AL Central
-Tigers,American League,Central,N,AL Central
-Royals,American League,Central,N,AL Central
-Twins,American League,Central,N,AL Central
-Astros,American League,West,N,AL West
-Angels,American League,West,N,AL West
-Athletics,American League,West,N,AL West
-Mariners,American League,West,N,AL West
-Rangers,American League,West,N,AL West
-Braves,National League,East,N,NL East
-Marlins,National League,East,N,NL East
-Mets,National League,East,N,NL East
-Phillies,National League,East,N,NL East
-Nationals,National League,East,N,NL East
-Cubs,National League,Central,N,NL Central
-Reds,National League,Central,N,NL Central
-Brewers,National League,Central,N,NL Central
-Pirates,National League,Central,N,NL Central
-Cardinals,National League,Central,N,NL Central
-Diamondbacks,National League,West,Y,NL West
-Rockies,National League,West,Y,NL West
-Dodgers,National League,West,Y,NL West
-Padres,National League,West,Y,NL West
-Giants,National League,West,Y,NL West
+﻿League,Division,Name,In_Division,League_Division
+American League,East,Orioles,N,AL East
+American League,East,Red Sox,N,AL East
+American League,East,Yankees,N,AL East
+American League,East,Rays,N,AL East
+American League,East,Blue Jays,N,AL East
+American League,Central,White Sox,N,AL Central
+American League,Central,Indians,N,AL Central
+American League,Central,Tigers,N,AL Central
+American League,Central,Royals,N,AL Central
+American League,Central,Twins,N,AL Central
+American League,West,Astros,N,AL West
+American League,West,Angels,N,AL West
+American League,West,Athletics,N,AL West
+American League,West,Mariners,N,AL West
+American League,West,Rangers,N,AL West
+National League,East,Braves,N,NL East
+National League,East,Marlins,N,NL East
+National League,East,Mets,N,NL East
+National League,East,Phillies,N,NL East
+National League,East,Nationals,N,NL East
+National League,Central,Cubs,N,NL Central
+National League,Central,Reds,N,NL Central
+National League,Central,Brewers,N,NL Central
+National League,Central,Pirates,N,NL Central
+National League,Central,Cardinals,N,NL Central
+National League,West,Snakes,Y,NL West
+National League,West,Rockies,Y,NL West
+National League,West,Dodgers,Y,NL West
+National League,West,Padres,Y,NL West
+National League,West,Giants,Y,NL West
